@@ -1,0 +1,12 @@
+C:\Users\Minenhle\Music\Projects\EngineForTrading\Reject\bin\Debug\net6.0\Reject.deps.json
+C:\Users\Minenhle\Music\Projects\EngineForTrading\Reject\bin\Debug\net6.0\Reject.dll
+C:\Users\Minenhle\Music\Projects\EngineForTrading\Reject\bin\Debug\net6.0\Reject.pdb
+C:\Users\Minenhle\Music\Projects\EngineForTrading\Reject\obj\Debug\net6.0\Reject.csproj.AssemblyReference.cache
+C:\Users\Minenhle\Music\Projects\EngineForTrading\Reject\obj\Debug\net6.0\Reject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minenhle\Music\Projects\EngineForTrading\Reject\obj\Debug\net6.0\Reject.AssemblyInfoInputs.cache
+C:\Users\Minenhle\Music\Projects\EngineForTrading\Reject\obj\Debug\net6.0\Reject.AssemblyInfo.cs
+C:\Users\Minenhle\Music\Projects\EngineForTrading\Reject\obj\Debug\net6.0\Reject.csproj.CoreCompileInputs.cache
+C:\Users\Minenhle\Music\Projects\EngineForTrading\Reject\obj\Debug\net6.0\Reject.dll
+C:\Users\Minenhle\Music\Projects\EngineForTrading\Reject\obj\Debug\net6.0\refint\Reject.dll
+C:\Users\Minenhle\Music\Projects\EngineForTrading\Reject\obj\Debug\net6.0\Reject.pdb
+C:\Users\Minenhle\Music\Projects\EngineForTrading\Reject\obj\Debug\net6.0\ref\Reject.dll

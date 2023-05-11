@@ -1,0 +1,12 @@
+C:\Users\Minenhle\Music\Projects\EngineForTrading\Instrument\bin\Debug\net6.0\EngineForTradingServer.Instrument.deps.json
+C:\Users\Minenhle\Music\Projects\EngineForTrading\Instrument\bin\Debug\net6.0\EngineForTradingServer.Instrument.dll
+C:\Users\Minenhle\Music\Projects\EngineForTrading\Instrument\bin\Debug\net6.0\EngineForTradingServer.Instrument.pdb
+C:\Users\Minenhle\Music\Projects\EngineForTrading\Instrument\obj\Debug\net6.0\Instrument.csproj.AssemblyReference.cache
+C:\Users\Minenhle\Music\Projects\EngineForTrading\Instrument\obj\Debug\net6.0\Instrument.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minenhle\Music\Projects\EngineForTrading\Instrument\obj\Debug\net6.0\Instrument.AssemblyInfoInputs.cache
+C:\Users\Minenhle\Music\Projects\EngineForTrading\Instrument\obj\Debug\net6.0\Instrument.AssemblyInfo.cs
+C:\Users\Minenhle\Music\Projects\EngineForTrading\Instrument\obj\Debug\net6.0\Instrument.csproj.CoreCompileInputs.cache
+C:\Users\Minenhle\Music\Projects\EngineForTrading\Instrument\obj\Debug\net6.0\EngineForTradingServer.Instrument.dll
+C:\Users\Minenhle\Music\Projects\EngineForTrading\Instrument\obj\Debug\net6.0\refint\EngineForTradingServer.Instrument.dll
+C:\Users\Minenhle\Music\Projects\EngineForTrading\Instrument\obj\Debug\net6.0\EngineForTradingServer.Instrument.pdb
+C:\Users\Minenhle\Music\Projects\EngineForTrading\Instrument\obj\Debug\net6.0\ref\EngineForTradingServer.Instrument.dll
