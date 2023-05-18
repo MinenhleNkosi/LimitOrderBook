@@ -30,7 +30,7 @@ That's basically what a limit order book does - `it helps organize and display a
 * Refers to a financial asset that can be bought or sold such as **stock**, **bonds**, etc.
 * It's what you own and can be traded on financial markets like [stock exchange](https://www.investopedia.com/articles/basics/04/092404.asp) or [over-the-counter (oct)](https://www.forbes.com/advisor/investing/otc-market/) markets.
 
-![pic](insert image 2)
+![pic](https://github.com/MinenhleNkosi/LimitOrderBook/blob/main/images/2.png)
 
 ![pic](insert image 3)
 
