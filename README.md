@@ -9,11 +9,10 @@
 
 ![pic](https://github.com/MinenhleNkosi/LimitOrderBook/blob/main/images/4.png)
 
-
 ## Simpler Explaination
-* Imagine you have a toy that you want to **sell** to someone. You decide that you won't **sell** it for **less than R10**. So you put a sign next to the toy that says `"Toy for sale, $10 or more"`.
-* Someone comes along and sees the sign. They want the toy and are willing to **pay R11** for it. So they **write a note** that says `"I'll buy the toy for $11"`. They give the note to you, and you put it in your **pocket**.
-* Another person comes along and sees the sign too. They also want the toy, but they are only willing to **pay R9** for it. So they **write a note** that says `"I'll buy the toy for $9"`. They give the note to you, and you put it in your **pocket**.
+* Imagine you have a toy that you want to **sell** to someone. You decide that you won't **sell** it for **less than R10**. So you put a sign next to the toy that says `"Toy for sale, R10 or more"`.
+* Someone comes along and sees the sign. They want the toy and are willing to **pay R11** for it. So they **write a note** that says `"I'll buy the toy for R11"`. They give the note to you, and you put it in your **pocket**.
+* Another person comes along and sees the sign too. They also want the toy, but they are only willing to **pay R9** for it. So they **write a note** that says `"I'll buy the toy for R9"`. They give the note to you, and you put it in your **pocket**.
 * Now you have two **notes** in your **pocket** - one for R11 and one for R9. You look at the **notes** and decide that you'll **sell** the toy to the person who offered **R11** because that's more than **R10**.
 
 * That's kind of like what a [limit order book](https://www.investopedia.com/terms/l/limitorderbook.asp) does for the stock market. Instead of toys, people **buy** and **sell** pieces of companies called stocks. And instead of **notes** they **use computers** to place **orders** to **buy or sell** the stocks at a certain **price**.
