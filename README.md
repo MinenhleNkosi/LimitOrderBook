@@ -46,7 +46,7 @@ That's basically what a limit order book does - `it helps organize and display a
 ## Tracking a Limit Order
 The system matches the execution of the best possible pair of orders in the system. The best pair is made up of the highest **bid** and the lowest **ask** orders.
 
-![pic](insert image 5)
+![pic](https://github.com/MinenhleNkosi/LimitOrderBook/blob/main/images/5.png)
 
 * **Bid:** Is the price the specialist or exchange will `sell` a security or the price at which an investor can `buy` a security.
 * **Ask:** Offers the price at which the specialist or exchange will `buy` a security or the price at which the investor can `sell` the security.
