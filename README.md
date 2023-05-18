@@ -32,7 +32,7 @@ That's basically what a limit order book does - `it helps organize and display a
 
 ![pic](https://github.com/MinenhleNkosi/LimitOrderBook/blob/main/images/2.png)
 
-![pic](insert image 3)
+![pic](https://github.com/MinenhleNkosi/LimitOrderBook/blob/main/images/3.png)
 
 ## Buy
 * Is a limit order to "buy" a security at a **present** price or lower.
