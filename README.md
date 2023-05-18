@@ -73,7 +73,7 @@ The system matches the execution of the best possible pair of orders in the syst
 * The main goal here is to develop a comprehensive logging facility or library that will serve as a robust logging system. This system is designed to handle various types of logs, specifically focusing on capturing and storing data related to limit orders. 
 * The primary objective of this logging facility is to provide a reliable and efficient means of recording and retrieving essential information pertaining to limit orders, ensuring that relevant data is preserved for analysis and future reference.
 
-![pic](insert image 7)
+![pic](https://github.com/MinenhleNkosi/LimitOrderBook/blob/main/images/7.png)
 
 *For in-depth expalination on [Part 2](insert link to part 2 folder)
 
