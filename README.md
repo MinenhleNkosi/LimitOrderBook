@@ -7,7 +7,7 @@
 
 [Security Specialist:](https://www.investopedia.com/terms/s/specialist.asp) has the responsibility to guarantee that the top priority order is executed before other orders in the book, and before other orders at an equal price or worse price held or submitted by other traders on the floor, such as brokers.
 
-![pic](insert image 4)
+![pic](https://github.com/MinenhleNkosi/LimitOrderBook/blob/main/images/4.png)
 
 
 ## Simpler Explaination
