@@ -1,0 +1,12 @@
+C:\Users\Minenhle\Music\Projects\EngineForTrading\LoggingFacility\obj\Debug\net6.0\LoggingFacility.csproj.AssemblyReference.cache
+C:\Users\Minenhle\Music\Projects\EngineForTrading\LoggingFacility\obj\Debug\net6.0\LoggingFacility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minenhle\Music\Projects\EngineForTrading\LoggingFacility\obj\Debug\net6.0\LoggingFacility.AssemblyInfoInputs.cache
+C:\Users\Minenhle\Music\Projects\EngineForTrading\LoggingFacility\obj\Debug\net6.0\LoggingFacility.AssemblyInfo.cs
+C:\Users\Minenhle\Music\Projects\EngineForTrading\LoggingFacility\obj\Debug\net6.0\LoggingFacility.csproj.CoreCompileInputs.cache
+C:\Users\Minenhle\Music\Projects\EngineForTrading\LoggingFacility\bin\Debug\net6.0\EngineForTradingServer.Logging.deps.json
+C:\Users\Minenhle\Music\Projects\EngineForTrading\LoggingFacility\bin\Debug\net6.0\EngineForTradingServer.Logging.dll
+C:\Users\Minenhle\Music\Projects\EngineForTrading\LoggingFacility\bin\Debug\net6.0\EngineForTradingServer.Logging.pdb
+C:\Users\Minenhle\Music\Projects\EngineForTrading\LoggingFacility\obj\Debug\net6.0\EngineForTradingServer.Logging.dll
+C:\Users\Minenhle\Music\Projects\EngineForTrading\LoggingFacility\obj\Debug\net6.0\refint\EngineForTradingServer.Logging.dll
+C:\Users\Minenhle\Music\Projects\EngineForTrading\LoggingFacility\obj\Debug\net6.0\EngineForTradingServer.Logging.pdb
+C:\Users\Minenhle\Music\Projects\EngineForTrading\LoggingFacility\obj\Debug\net6.0\ref\EngineForTradingServer.Logging.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aiAabZkrvWchncZm11/p5C61ipORuS1fBlLjoWZQ84wx34ko25sFrqC8C4amtQFVjHztqhuXKSn4Sp9s/ocQPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Minenhle\\Music\\Projects\\EngineForTrading\\LoggingFacility\\LoggingFacility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Minenhle\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Minenhle\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\Minenhle\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Minenhle\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
