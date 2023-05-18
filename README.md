@@ -65,7 +65,7 @@ The system matches the execution of the best possible pair of orders in the syst
 
 ![pic](https://github.com/MinenhleNkosi/LimitOrderBook/blob/main/images/6.png)
 
-* For in-depth explaination on [Part 1]([insert link to part 1 folder](https://github.com/MinenhleNkosi/LimitOrderBook/tree/main/Engine%20Server%20part%201))
+* For in-depth explaination on [Part 1](https://github.com/MinenhleNkosi/LimitOrderBook/tree/main/Engine%20Server%20part%201)
 
 
 ## Part 2: Logging Facility, OrderTypes, Responses & Rejection
@@ -74,7 +74,7 @@ The system matches the execution of the best possible pair of orders in the syst
 
 ![pic](https://github.com/MinenhleNkosi/LimitOrderBook/blob/main/images/7.png)
 
-*For in-depth expalination on [Part 2]([insert link to part 2 folder](https://github.com/MinenhleNkosi/LimitOrderBook/tree/main/OrderTypes%2C%20Responses%20%26%20Rejection%20-%20Part%202))
+*For in-depth expalination on [Part 2](https://github.com/MinenhleNkosi/LimitOrderBook/tree/main/OrderTypes%2C%20Responses%20%26%20Rejection%20-%20Part%202)
 
 ## Part 3: Matching Algorithms, and Test Units
 * This part is still a **work in progress** but will be uploaded `SOON`.
