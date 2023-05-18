@@ -40,7 +40,7 @@ That's basically what a limit order book does - `it helps organize and display a
 ## Sell
 * It's a limit order to "sell" a security at a pre-specified price or higher.
 
-![pic](insert image1)
+![pic](https://github.com/MinenhleNkosi/LimitOrderBook/blob/main/images/1.jpg)
 
 -----
 ## Tracking a Limit Order
