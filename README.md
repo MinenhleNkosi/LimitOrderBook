@@ -65,7 +65,7 @@ The system matches the execution of the best possible pair of orders in the syst
 
 ![pic](https://github.com/MinenhleNkosi/LimitOrderBook/blob/main/images/6.png)
 
-* For in-depth explaination on [Part 1](insert link to part 1 folder)
+* For in-depth explaination on [Part 1]([insert link to part 1 folder](https://github.com/MinenhleNkosi/LimitOrderBook/tree/main/Engine%20Server%20part%201))
 
 
 ## Part 2: Logging Facility, OrderTypes, Responses & Rejection
