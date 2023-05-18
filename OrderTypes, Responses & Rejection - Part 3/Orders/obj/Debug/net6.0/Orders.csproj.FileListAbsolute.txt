@@ -1,5 +1,0 @@
-C:\Users\Minenhle\Music\Projects\EngineForTrading\Orders\obj\Debug\net6.0\Orders.csproj.AssemblyReference.cache
-C:\Users\Minenhle\Music\Projects\EngineForTrading\Orders\obj\Debug\net6.0\Orders.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Minenhle\Music\Projects\EngineForTrading\Orders\obj\Debug\net6.0\Orders.AssemblyInfoInputs.cache
-C:\Users\Minenhle\Music\Projects\EngineForTrading\Orders\obj\Debug\net6.0\Orders.AssemblyInfo.cs
-C:\Users\Minenhle\Music\Projects\EngineForTrading\Orders\obj\Debug\net6.0\Orders.csproj.CoreCompileInputs.cache
