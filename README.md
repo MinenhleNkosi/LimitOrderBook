@@ -64,7 +64,7 @@ The system matches the execution of the best possible pair of orders in the syst
 ## Part 1: Engine Server
 * The clients will be consuming the market data on the server we are going to create and make decisions on the data they recieve, those decisions could be `to cancel an order`, `submit a new order`, `delete an existing order`.
 
-![pic](insert image 6)
+![pic](https://github.com/MinenhleNkosi/LimitOrderBook/blob/main/images/6.png)
 
 * For in-depth explaination on [Part 1](insert link to part 1 folder)
 
