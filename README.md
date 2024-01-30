@@ -7,7 +7,9 @@
 
 [Security Specialist:](https://www.investopedia.com/terms/s/specialist.asp) has the responsibility to guarantee that the top priority order is executed before other orders in the book, and before other orders at an equal price or worse price held or submitted by other traders on the floor, such as brokers.
 
-![pic](https://github.com/MinenhleNkosi/LimitOrderBook/blob/main/images/4.png)
+<kbd>
+  <img src="https://github.com/MinenhleNkosi/LimitOrderBook/blob/main/images/4.png" height="auto" width="800" />
+</kbd>
 
 ## Simpler Explaination
 * Imagine you have a toy that you want to **sell** to someone. You decide that you won't **sell** it for **less than R10**. So you put a sign next to the toy that says `"Toy for sale, R10 or more"`.
@@ -29,9 +31,13 @@ That's basically what a limit order book does - `it helps organize and display a
 * Refers to a financial asset that can be bought or sold such as **stock**, **bonds**, etc.
 * It's what you own and can be traded on financial markets like [stock exchange](https://www.investopedia.com/articles/basics/04/092404.asp) or [over-the-counter (oct)](https://www.forbes.com/advisor/investing/otc-market/) markets.
 
-![pic](https://github.com/MinenhleNkosi/LimitOrderBook/blob/main/images/2.png)
+<kbd>
+  <img src="https://github.com/MinenhleNkosi/LimitOrderBook/blob/main/images/2.png" height="auto" width="600" />
+</kbd>
 
-![pic](https://github.com/MinenhleNkosi/LimitOrderBook/blob/main/images/3.png)
+<kbd>
+  <img src="https://github.com/MinenhleNkosi/LimitOrderBook/blob/main/images/3.png" height="auto" width="600" />
+</kbd>
 
 ## Buy
 * Is a limit order to "buy" a security at a **present** price or lower.
@@ -39,13 +45,17 @@ That's basically what a limit order book does - `it helps organize and display a
 ## Sell
 * It's a limit order to "sell" a security at a pre-specified price or higher.
 
-![pic](https://github.com/MinenhleNkosi/LimitOrderBook/blob/main/images/1.jpg)
+<kbd>
+  <img src="https://github.com/MinenhleNkosi/LimitOrderBook/blob/main/images/1.jpg" height="auto" width="600" />
+</kbd>
 
 -----
 ## Tracking a Limit Order
 The system matches the execution of the best possible pair of orders in the system. The best pair is made up of the highest **bid** and the lowest **ask** orders.
 
-![pic](https://github.com/MinenhleNkosi/LimitOrderBook/blob/main/images/5.png)
+<kbd>
+  <img src="https://github.com/MinenhleNkosi/LimitOrderBook/blob/main/images/5.png" height="auto" width="600" />
+</kbd>
 
 * **Bid:** Is the price the specialist or exchange will `sell` a security or the price at which an investor can `buy` a security.
 * **Ask:** Offers the price at which the specialist or exchange will `buy` a security or the price at which the investor can `sell` the security.
@@ -63,7 +73,9 @@ The system matches the execution of the best possible pair of orders in the syst
 ## Part 1: Engine Server
 * The clients will be consuming the market data on the server we are going to create and make decisions on the data they recieve, those decisions could be `to cancel an order`, `submit a new order`, `delete an existing order`.
 
-![pic](https://github.com/MinenhleNkosi/LimitOrderBook/blob/main/images/6.png)
+<kbd>
+  <img src="https://github.com/MinenhleNkosi/LimitOrderBook/blob/main/images/6.png" height="auto" width="600" />
+</kbd>
 
 * For in-depth explaination on [Part 1](https://github.com/MinenhleNkosi/LimitOrderBook/tree/main/Engine%20Server%20part%201)
 
@@ -72,7 +84,9 @@ The system matches the execution of the best possible pair of orders in the syst
 * The main goal here is to develop a comprehensive logging facility or library that will serve as a robust logging system. This system is designed to handle various types of logs, specifically focusing on capturing and storing data related to limit orders. 
 * The primary objective of this logging facility is to provide a reliable and efficient means of recording and retrieving essential information pertaining to limit orders, ensuring that relevant data is preserved for analysis and future reference.
 
-![pic](https://github.com/MinenhleNkosi/LimitOrderBook/blob/main/images/7.png)
+<kbd>
+  <img src="https://github.com/MinenhleNkosi/LimitOrderBook/blob/main/images/7.png" height="auto" width="600" />
+</kbd>
 
 *For in-depth expalination on [Part 2](https://github.com/MinenhleNkosi/LimitOrderBook/tree/main/OrderTypes%2C%20Responses%20%26%20Rejection%20-%20Part%202)
 
