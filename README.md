@@ -1,5 +1,5 @@
 # Limit Order Book
------
+
 ## Technical Explaination
 * It's the records of outstanding limit orders maintened by the security specialist who works at the exchange markets.
 * When a limit order for a security is entered, it is kept on record by the security specialist.
